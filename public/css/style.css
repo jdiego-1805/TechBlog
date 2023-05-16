@@ -1,4 +1,4 @@
-header, .comment:not(:last-child) {
+header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
@@ -7,13 +7,13 @@ header, .comment:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: #010303;
   text-decoration: none;
   font-size: 100%;
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: #f0f4f6;
   text-decoration: underline;
 }
 
